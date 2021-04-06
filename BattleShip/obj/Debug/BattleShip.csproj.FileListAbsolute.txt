@@ -1,0 +1,10 @@
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.csprojAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.Properties.Resources.resources
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.GenerateResource.cache
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.Form1.resources
